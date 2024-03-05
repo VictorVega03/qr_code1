@@ -20,7 +20,7 @@ class MainApp extends StatelessWidget {
       ),
     );
     return MaterialApp(
-      title: 'QR.Flutter',
+      title: 'QR.Flutter2',
       theme: ThemeData.light(),
       debugShowCheckedModeBanner: false,
       home: (qrCode()),
